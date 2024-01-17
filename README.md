@@ -14,4 +14,5 @@ En una segunda versión del programa anterior, se debe escribir "Acertaste" o "M
 "Mayor", según la palabra introducida sea menor alfabéticamente que la contraseña, o
 mayor.
 
-4. 
+4. Diseñar una función a la que se le pase una cadena de caracteres y la devuelva invertida.
+Un ejemplo, la cadena “Hola mundo” quedaría “odnum aloH”.
