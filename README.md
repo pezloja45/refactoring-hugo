@@ -5,7 +5,7 @@ números pares. Y muestre los mensajes con los valores devueltos.
 2. Realiza un programa que pida al usuario dos enteros, estos enteros se pasan como
 parámetros a una función que muestra todos los números comprendidos entre ellos,
 inclusive.
-
+Arreglados los fallos de indentacion, nombres de variables corregidos y uso de metodos
 3. Diseñar el juego "Acierta la contraseña". El primer jugador introduce una contraseña, el
 segundo, debe insertar otra intentando acertarla con las pistas que le dará el programa:
 número de caracteres, primera y última letra. El programa debe escribir "Acertaste" o
